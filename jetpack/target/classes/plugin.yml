@@ -1,0 +1,10 @@
+name: Jetpack
+version: 1.0
+main: com.exmogamers.jetpack.Main
+api-version: 1.16
+
+commands:
+  jetpack:
+    description: Toggles jetpack(Shift)
+    usage: /jetpack
+    permission: jetpack.jetpack

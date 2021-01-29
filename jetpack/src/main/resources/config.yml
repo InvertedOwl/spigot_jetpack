@@ -1,0 +1,3 @@
+# Message that appears when the user executes the /jetpack commands (Toggling jetpack)
+toggle-on: "Jetpack Enabled"
+toggle-off: "Jetpack Disabled"
